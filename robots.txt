@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dormagen.softwareentwickler.app/sitemap.xml
